@@ -1,3 +1,4 @@
+# 10 stars NEW UPDATE
 # AK GRABBER
 ![image](https://github.com/0x5598/Ak-grabber/blob/main/AKgui.png?raw=true)
 
@@ -10,6 +11,7 @@
 
 # FEATURES
 ```
+
 • GUI Builder.
 • UAC Bypass.
 • Custom Icon.
