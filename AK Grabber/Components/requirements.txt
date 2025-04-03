@@ -3,3 +3,4 @@ tinyaes
 pyinstaller
 pyaesm
 urllib3
+requests
