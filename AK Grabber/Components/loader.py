@@ -1,4 +1,3 @@
-from akontop import *
 import os, sys, base64, zlib
 from pyaes import AESModeOfOperationGCM
 from zipimport import zipimporter
