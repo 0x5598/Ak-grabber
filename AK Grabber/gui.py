@@ -18,6 +18,7 @@ disable_warnings()
 from urllib.parse import quote
 from PIL import Image
 from io import BytesIO
+from Components.hyperion import *
 from threading import Thread
 
 
